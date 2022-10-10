@@ -1,6 +1,6 @@
 # Real-Time Sound Event Detection
 
-This repository contains the python implementation of a Sound Event Detection systems working in real time. 
+This repository contains the python implementation of a Sound Event Detection system working in real time. 
 
 <img src="./demo.png" style="max-width:600px; width:100%">
 
